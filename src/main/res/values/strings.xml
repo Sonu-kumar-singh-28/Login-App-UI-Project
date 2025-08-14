@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RelativeLayoutsLearn</string>
+    <string name="one">one</string>
+    <string name="hiiii">Hiiii</string>
+    <string name="clover_club">Clover Club</string>
+    <string name="connecting_you_n_securely">Connecting you \n securely</string>
+    <string name="loading">Loading...</string>
+    <string name="copowered_by_n_codequeststudio">CoPowered- by \n CodeQuestStudio</string>
+</resources>
